@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="open_nlu_driver_language">
+    <open_nlu_driver_language action="INSERT_OR_UPDATE">
+        <code>nl</code>
+        <driver display_value="">64c023c17300330021a044764df6a70e</driver>
+        <driver_codes>nl</driver_codes>
+        <language>Dutch</language>
+        <sys_class_name>open_nlu_driver_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 20:56:49</sys_created_on>
+        <sys_id>9265bb834723011067857ac8f36d43cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dutch</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_813977_needit_0">600b97334793011067857ac8f36d4398</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">600b97334793011067857ac8f36d4398</sys_scope>
+        <sys_update_name>open_nlu_driver_language_9265bb834723011067857ac8f36d43cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-23 20:56:49</sys_updated_on>
+    </open_nlu_driver_language>
+</record_update>
